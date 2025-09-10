@@ -111,7 +111,7 @@ echo Press Ctrl+C to stop the server.
 echo.
 
 REM Start the simple server
-node simple-server.js
+node simple-server.cjs
 
 goto :eof
 
